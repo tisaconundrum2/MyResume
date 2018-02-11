@@ -6,12 +6,10 @@ SUMMARY OF QUALIFICATIONS
 
 - Detail-oriented Software Engineer 
 - Exceptional troubleshooting skills 
-- Talent for developing innovative solutions
 - Highly dependable team player 
 - Efficiently resolving project issues in a thorough manner 
 - Strong leadership abilities 
-- Hands-on skills 
-- Communicate well within a team setting 
+- Communicates well within a team setting 
 - Ability to critically look at a problem and look at the broader picture 
 - Always seeking to improve myself and staying up to date on the latest trends
 
@@ -66,6 +64,7 @@ HIGHLIGHTS
 
 ACCOMPLISHMENTS
 --
+
 - Funding awarded to startup called DoorSock, an app designed to help students communicate better with their roommates and allow for privacy when needed
 - Built websites utilizing Google Chrome’s Developer Toolkits for the NAU Startups teams that I participated in.
 - Coauthored a research paper involving spectral analysis of rock samples from Mars
