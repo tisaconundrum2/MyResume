@@ -17,11 +17,14 @@ SUMMARY OF QUALIFICATIONS
 
 EDUCATION
 --
+
 **Arizona State University** | Tempe, AZ | 02/2017 to 05/2019
+
 - Major in Information Technology (BS On-line)
 
 
 **Northern Arizona University** | Flagstaff, AZ | 09/2011 to 12/2016
+
 - Major in Computer Science
 - Minor in Mathematics
 - Coursework in Computer Science, Mathematics, and Biology
@@ -33,9 +36,11 @@ RELEVANT EXPERIENCE
 --
 
 **Software Engineer** | USGS - Flagstaff, AZ | 05/2016 to Current
+
 Built, from the ground up, a usable UI or User interface for data scientists to use for cross-validating rocks scanned with the Mars Rover, Curiosity
 
 **President of Robotics** | NAU Robotics Club - Flagstaff, AZ | 09/2013 to 09/2016
+
 Taught workshops on the basics of embedded systems in both hardware and software
 Built libraries for Java, Arduino, and C/C++
 Built Robotics webpage from the ground up
