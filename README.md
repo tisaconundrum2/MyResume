@@ -32,6 +32,9 @@ EDUCATION
 
 RELEVANT EXPERIENCE
 --
+**Web Designer** | Arizona State University - Phoenix, AZ | 05/2018
+
+Designed and built a usable bsic admin dashboard using Botstrap for design and Angular 6 as it's backend
 
 **Software Engineer** | USGS - Flagstaff, AZ | 05/2016 to Current
 
@@ -45,12 +48,12 @@ Built Robotics webpage from the ground up
 
 HIGHLIGHTS
 --
-- Some C/C#/C++
-- Fluent in Python
-- Some Java
-- Some JavaScript
-- Some SQL
-- Some PHP
+- C/C#/C++
+- Python
+- Java
+- JavaScript/JQuery
+- SQL/MySQL
+- PHP
 - Project management
 - Analytical
 - Self-starter
