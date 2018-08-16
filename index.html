@@ -159,7 +159,7 @@
     <h4>HIGHLIGHTS</h4>
     <div class="row">
         <div class="col-1"></div>
-        <div id="data" class="Column1 col-md">
+        <div class="col-md">
             <li>Ability To Multi Task</li>
             <li>Active Directory</li>
             <li>Python</li>
@@ -169,6 +169,9 @@
             <li>SQL/MySQL</li>
             <li>PHP</li>
             <li>Linux</li>
+
+        </div>
+        <div class="col-md">
             <li>Project management</li>
             <li>Analytical</li>
             <li>Self-starter</li>
@@ -180,7 +183,6 @@
             <li>Agile development methodologies</li>
             <li>Foster teamwork</li>
         </div>
-        <div id="Column2" class="col-md"></div>
     </div>
     <br>
     <h4>ACCOMPLISHMENTS</h4>
@@ -197,17 +199,5 @@
         </div>
     </div>
 </div>
-
 </body>
-<script type="text/javascript">
-    $(document).ready(function () {
-        var size = $("#data > li").size();
-        $(".Column1 > li").each(function (index) {
-            if (index >= size / 2) {
-                $(this).appendTo("#Column2");
-            }
-        });
-    });
-</script>
-
 </html>
