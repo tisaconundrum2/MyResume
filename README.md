@@ -1,5 +1,4 @@
 # Nicholas Finch
-linkedin.com/in/nicholasfinch | C: 949.441.9555 | nfinch1992@gmail.com
 
 SUMMARY OF QUALIFICATIONS
 --
