@@ -1,4 +1,4 @@
-# Nicholas Finch
+# My Koala-fications
 
 # Resume Built with Bootstrap
 
