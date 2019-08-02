@@ -13,8 +13,8 @@ But at the same time it can be hard to have to go into Word with the intent of c
 
 This spectacular approach is easier, designed using all the basic rules of Bootstrap.
 Create a column, create a row. Create a row within a column. It's easy.
-And the best part, one can simply copy a `div` and paste it again somewhere else and add new details.
-I've created ease for each new entry by simply having bootstrap do the heavy lifting when it comes to design.
+And the best part, you just simply copy a `div` and paste it again somewhere else and add new details.
+I've created an easy environment in which each new entry is just one simple change. Bootstrap does all the heavy lifting and I sit back and enjoy the design.
 
 Click the below link to see it. Right click the webpage to see the source code.
 
