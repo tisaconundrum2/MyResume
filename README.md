@@ -4,8 +4,8 @@
 
 Designed with change in mind. 
 
-The changing market landscape can make it hard to keep your resume looking pretty and concise.
-But at the same time, Word can sometimes be frustrating when one has the intent of changing one thing only to have everything be skewed and sent careening into the void.
+The changing market landscape can make it hard to keep your resume looking beautiful and concise.
+You could use Word to update your document, but then you have to deal with the frustration that comes along with changing one thing only to have everything be skewed and sent careening into the void.
 
 ![image](https://user-images.githubusercontent.com/11879769/62302784-cac6ce80-b42f-11e9-860a-11206f72cba4.png)
 
