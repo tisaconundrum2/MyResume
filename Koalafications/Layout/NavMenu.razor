@@ -10,6 +10,12 @@
 <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
     <nav class="nav flex-column">
         <div class="nav-item px-3">
+            @* Github Login *@
+            <a class="nav-link" href="https://github.com/login/oauth/authorize?client_id=YOUR_CLIENT_ID&scope=repo">
+                <span class="bi bi-github" aria-hidden="true"></span> Login with GitHub
+            </a>
+        </div>
+        <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
                 <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
             </NavLink>
