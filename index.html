@@ -54,6 +54,13 @@
         .row {
             padding-top: 10px;
         }
+
+        /* Force Break page on print */
+        @media print {
+            .pagebreak {
+                page-break-before: always;
+            }
+        }
     </style>
 </head>
 
@@ -156,7 +163,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row pagebreak">
             <div class="col-1"></div>
             <div class="col">
                 <strong>Product Support Specialist</strong><br>
@@ -235,8 +242,7 @@
             <div class="col-1"></div>
             <div class="col">
                 <strong>Northern Arizona University </strong> Flagstaff, AZ<br>
-                <li>Major in Computer Science</li>
-                <li>Minor in Mathematics</li>
+                <li>Major in Computer Science / Minor in Mathematics</li>
                 <li>Coursework in Computer Science, Mathematics and Biology</li>
                 <li>Coursework in Software Architecture</li>
                 <li>Some Emphasis in Electrical Engineering</li>
